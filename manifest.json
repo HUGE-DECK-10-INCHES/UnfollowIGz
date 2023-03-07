@@ -1,0 +1,16 @@
+{
+    "name": "Instagram Unfollowers",
+    "version": "1.0",
+    "description": "Instagram Unfollowers",
+    "manifest_version": 2,
+    "browser_action": {
+        "default_icon": "images/img16.png",
+        "default_popup": "popup.html"
+    },
+    "icons": {
+        "128": "images/img16.png"
+    },
+    "permissions": [
+        "activeTab"
+    ]
+}
